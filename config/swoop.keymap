@@ -43,7 +43,7 @@
                 // Bottom row right hand
                 &kp N         &kp M         &kp COMMA    &kp DOT      &lt MEDIA FSLH
                 // Thumb cluster left
-                &trans        &hm LMETA LS(APOSTROPHE) &kp SPACE
+                &trans        &kp BSPC &kp SPACE
                 // Thumb cluster right
                 &kp BSPC &hm RMETA ESC                 &trans
             >;
